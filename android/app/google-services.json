@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "161434342947",
+    "project_id": "destinatiom",
+    "storage_bucket": "destinatiom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161434342947:android:c175421ff899c1d98c0396",
+        "android_client_info": {
+          "package_name": "com.example.fbase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4ASkgg90gRwP3-eW4RS92Ed1jg-UY6co"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161434342947:android:b7ebdfb67d89261f8c0396",
+        "android_client_info": {
+          "package_name": "com.example.jagat_sign"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4ASkgg90gRwP3-eW4RS92Ed1jg-UY6co"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161434342947:android:e2cac268894e800f8c0396",
+        "android_client_info": {
+          "package_name": "com.example.sign__in_out"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4ASkgg90gRwP3-eW4RS92Ed1jg-UY6co"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
